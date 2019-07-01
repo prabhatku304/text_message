@@ -1,9 +1,10 @@
 {
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 7876,
-  "expoServerNgrokUrl": "https://nq-v5h.prabhat5789.first-app.exp.direct",
-  "packagerNgrokUrl": "https://packager.nq-v5h.prabhat5789.first-app.exp.direct",
-  "ngrokPid": 7965,
-  "devToolsPort": 19002
+  "packagerPid": 19080,
+  "expoServerNgrokUrl": "https://4n-jga.prabhat5789.first-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.4n-jga.prabhat5789.first-app.exp.direct",
+  "ngrokPid": 19136,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
 }
